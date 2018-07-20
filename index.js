@@ -19,6 +19,6 @@ const getJoke = () => {
 }
 
 const putJokeOnPage = (jokeJson) => {
-	$("#joke").html(jokeJson.joke)
+	$("#joke p").html(jokeJson.joke)
 }
 
