@@ -93,8 +93,12 @@ footer {
 
   	#get-joke {
   		min-height: 250px;
-  		margin-top: 20%;
+  		margin-top: 15%;
   		font-size: 4em;
+  	}
+
+  	footer {
+  		bottom: -100px;
   	}
 }
 
