@@ -73,7 +73,24 @@ footer {
   and (min-device-width: 375px) 
   and (max-device-width: 667px) 
   and (-webkit-min-device-pixel-ratio: 2) { 
+  	#joke {
+  		min-height: 400px;
+  	}
 
+  	#joke p {
+  		font-size: 3em;
+  		vertical-align: middle;
+  	}
+
+  	#get-joke {
+  		min-height: 250px;
+  		margin-top: 15%;
+  		font-size: 4em;
+  	}
+
+  	footer {
+  		bottom: -100px;
+  	}
 }
 
 /* Portrait */
@@ -108,7 +125,24 @@ footer {
   and (max-device-width: 667px) 
   and (-webkit-min-device-pixel-ratio: 2)
   and (orientation: landscape) { 
+  	#joke {
+  		min-height: 400px;
+  	}
 
+  	#joke p {
+  		font-size: 3em;
+  		vertical-align: middle;
+  	}
+
+  	#get-joke {
+  		min-height: 250px;
+  		margin-top: 15%;
+  		font-size: 4em;
+  	}
+
+  	footer {
+  		bottom: -100px;
+  	}
 }
 
 /* ----------- iPhone 6+, 7+ and 8+ ----------- */
@@ -118,7 +152,24 @@ footer {
   and (min-device-width: 414px) 
   and (max-device-width: 736px) 
   and (-webkit-min-device-pixel-ratio: 3) { 
+  	#joke {
+  		min-height: 400px;
+  	}
 
+  	#joke p {
+  		font-size: 3em;
+  		vertical-align: middle;
+  	}
+
+  	#get-joke {
+  		min-height: 250px;
+  		margin-top: 15%;
+  		font-size: 4em;
+  	}
+
+  	footer {
+  		bottom: -100px;
+  	}
 }
 
 /* Portrait */
@@ -127,7 +178,24 @@ footer {
   and (max-device-width: 736px) 
   and (-webkit-min-device-pixel-ratio: 3)
   and (orientation: portrait) { 
+  	#joke {
+  		min-height: 400px;
+  	}
 
+  	#joke p {
+  		font-size: 3em;
+  		vertical-align: middle;
+  	}
+
+  	#get-joke {
+  		min-height: 250px;
+  		margin-top: 15%;
+  		font-size: 4em;
+  	}
+
+  	footer {
+  		bottom: -100px;
+  	}
 }
 
 /* Landscape */
@@ -136,7 +204,24 @@ footer {
   and (max-device-width: 736px) 
   and (-webkit-min-device-pixel-ratio: 3)
   and (orientation: landscape) { 
+  	#joke {
+  		min-height: 400px;
+  	}
 
+  	#joke p {
+  		font-size: 3em;
+  		vertical-align: middle;
+  	}
+
+  	#get-joke {
+  		min-height: 250px;
+  		margin-top: 15%;
+  		font-size: 4em;
+  	}
+
+  	footer {
+  		bottom: -100px;
+  	}
 }
 
 /* ----------- iPhone X ----------- */
@@ -155,7 +240,24 @@ footer {
   and (max-device-width: 812px) 
   and (-webkit-min-device-pixel-ratio: 3)
   and (orientation: portrait) { 
+  	#joke {
+  		min-height: 400px;
+  	}
 
+  	#joke p {
+  		font-size: 3em;
+  		vertical-align: middle;
+  	}
+
+  	#get-joke {
+  		min-height: 250px;
+  		margin-top: 15%;
+  		font-size: 4em;
+  	}
+
+  	footer {
+  		bottom: -100px;
+  	}
 }
 
 /* Landscape */
@@ -164,7 +266,24 @@ footer {
   and (max-device-width: 812px) 
   and (-webkit-min-device-pixel-ratio: 3)
   and (orientation: landscape) { 
+  	#joke {
+  		min-height: 400px;
+  	}
 
+  	#joke p {
+  		font-size: 3em;
+  		vertical-align: middle;
+  	}
+
+  	#get-joke {
+  		min-height: 250px;
+  		margin-top: 15%;
+  		font-size: 4em;
+  	}
+
+  	footer {
+  		bottom: -100px;
+  	}
 }
 
 
