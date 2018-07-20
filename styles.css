@@ -1,6 +1,13 @@
+html {
+	height: 90%;
+}
+
 body {
 	font-family: 'Alegreya Sans', sans-serif;
 	background: rgb(160, 217, 211);
+	position: relative;
+	min-height: 100%;
+
 }
 
 .wrapper {
@@ -42,5 +49,20 @@ body {
 	background-position: right center; 
 }
 button:focus {outline:0;}
+
+a {
+	color: rgb(243,174,172);
+}
+
+footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  text-align: center;
+  color: white;
+  font-size: 22px;
+}
 
 
